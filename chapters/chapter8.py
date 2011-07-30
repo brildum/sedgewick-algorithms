@@ -1,4 +1,6 @@
 
+"""Chapter 8: Elementary Sorting Methods"""
+
 def swap(sequence, i, j):
     """Swaps elements at specified indices in a sequence.
     """
