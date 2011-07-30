@@ -1,7 +1,6 @@
 
 def gcd(u, v):
-    """
-    Returns the greatest common denominator (or greatest common factor) of
+    """Returns the greatest common denominator (or greatest common factor) of
     u and v.
     """
     if v == 0:
@@ -9,8 +8,7 @@ def gcd(u, v):
     return gcd(v, u%v)
 
 def lowest_terms(numerator, denominator):
-    """
-    Given a numerator and denominator (representing a fraction), returns a tuple
+    """Given a numerator and denominator (representing a fraction), returns a tuple
     of the fraction in its lowest terms.
     """
     d = gcd(numerator, denominator)
