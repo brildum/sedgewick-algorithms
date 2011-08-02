@@ -1,5 +1,5 @@
 
-""" Priority Queues """
+""" Chapter 11: Priority Queues """
 
 import copy
 

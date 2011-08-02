@@ -1,5 +1,5 @@
 
-""" Quicksort """
+""" Chapter 9: Quicksort """
 
 import sys
 

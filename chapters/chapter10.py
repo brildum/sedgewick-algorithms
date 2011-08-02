@@ -1,5 +1,5 @@
 
-""" Radix Sorting """
+""" Chapter 10: Radix Sorting """
 
 def radix_exchange_sort(sequence, bit_offset=None, l=None, r=None):
     """Returns a sequence of integers in sorted (ascending) order. Assumes the
