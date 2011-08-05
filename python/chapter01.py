@@ -1,4 +1,6 @@
 
+""" Chapter 1: Preview """
+
 def gcd(u, v):
     """Returns the greatest common denominator (or greatest common factor) of
     u and v.
